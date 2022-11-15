@@ -1,0 +1,33 @@
+.page {
+  font-family: "Inter";
+  background-color: #2a2c2f;
+  color: white;
+  font-weight: 400;
+  min-width: 320px;
+  max-width: 1280px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  padding: 28px 0 24px;
+  outline: solid white;
+}
+
+/*@media screen and (max-width: 1124px) {
+  .page {
+    max-width: 1124px;
+  }
+}
+
+@media screen and (max-width: 984px) {
+  .page {
+    max-width: 984px;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .page {
+    max-width: 568px;
+    padding: 16px 0 24px;
+  }
+}*/
