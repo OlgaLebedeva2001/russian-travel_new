@@ -17,7 +17,7 @@
   margin-right: 0;
 }
 
-@media screen and (max-width: 722px) {
+@media screen and (max-width: 568px) {
   .langs__lang {
     font-size: 18px;
     line-height: 20px;
