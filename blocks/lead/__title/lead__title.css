@@ -18,19 +18,19 @@
 
 
 
-@media screen and (max-width: 1124px) {
+/*@media screen and (max-width: 1124px) {
   .lead__title  {
 
     padding: 0 104px;
   }
-}
+}*/
 
-@media screen and (max-width: 984px) {
+/*@media screen and (max-width: 984px) {
   .lead__title  {
 
     padding: 24px;
   }
-}
+}*/
 
 @media screen and (max-width: 722px) {
   .lead__title  {
