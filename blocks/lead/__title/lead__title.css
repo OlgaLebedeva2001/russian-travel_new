@@ -37,18 +37,18 @@
   }
 }
 
-@media screen and (max-width: 722px) {
+/*@media screen and (max-width: 722px) {
   .lead__title  {
 
-    /*padding: 18px;*/
+    padding: 18px;
     font-size: 40px;
     line-height: 44px;
-    /*max-width: 288px;*/
+    max-width: 288px;
     padding: 0 16px;
     min-height: 88px;
     margin: 0 0 8px 0;
   }
-}
+}*/
 
 @media screen and (max-width: 568px) {
   .lead__title  {
