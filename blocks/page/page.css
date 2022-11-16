@@ -11,6 +11,7 @@
   margin: 0 auto;
   padding: 28px 0 24px 0;
   outline: solid white;
+  box-sizing: border-box;
 }
 
 /*@media screen and (max-width: 1124px) {
