@@ -28,10 +28,10 @@
   }
 }
 
-/*@media screen and (max-width: 722px) {
+@media screen and (max-width: 722px) {
   .intro {
     /*max-width: 288px;*/
     /*min-height: 754px;*/
-    /*padding: 0 16px;
+    padding: 0;
   }
 }
