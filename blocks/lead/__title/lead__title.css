@@ -43,13 +43,13 @@
 @media screen and (max-width: 740px) {
   .lead__title  {
 
-    /*padding: 18px;*/
-    font-size: 68px;
-    line-height: 70px;
+    /*padding: 16px;*/
+    font-size: 40px;
+    line-height: 44px;
     /*max-width: 288px;*/
-    padding: 0 16px;
     min-height: 88px;
     margin: 0 0 8px 0;
+    padding: 0 16px;
   }
 }
 
