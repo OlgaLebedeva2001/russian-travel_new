@@ -1,6 +1,6 @@
 .lead__subtitle {
-  max-width: 640px;
-  width: 100%;
+  /*max-width: 640px;
+  width: 100%;*/
   min-height: 72px;
   font-style: normal;
   font-weight: 400;
@@ -12,8 +12,28 @@
   /*padding: 0 60px;*/
   /*box-sizing: border-box;*/
   outline: solid pink;
-  padding: 0;
+  padding: 0 172px;
 }
+
+
+
+
+
+@media screen and (max-width: 1124px) {
+  .lead__subtitle  {
+
+  padding: 0 144px;
+  }
+}
+
+
+@media screen and (max-width: 984px) {
+  .lead__subtitle  {
+
+  padding: 0 64px;
+  }
+}
+
 
 
 
@@ -22,8 +42,8 @@
 
     font-size: 16px;
     line-height: 20px;
-    max-width: 288px;
-    /*padding: 0;*/
+    /*max-width: 288px;*/
+    padding: 0 16px;
     margin: 8px 0 40px 0;
     min-height: 40px;
   }
@@ -34,8 +54,8 @@
   .lead__subtitle {
     font-size: 16px;
     line-height: 20px;
-    max-width: 288px;
-    /*padding: 0;*/
+    /*max-width: 288px;*/
+    padding: 0 16px;
     margin: 8px 0 40px;
     min-height: 40px;
   }
