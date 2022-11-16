@@ -1,6 +1,7 @@
 .intro {
   display: flex;
   max-width: 984px;
+  width: 100%;
   min-height: 429px;
   flex-direction: column;
   justify-content: start;
@@ -23,6 +24,7 @@
     max-width: 768px;
     /*padding: 0 24px;
     padding: 0 24px;*/
+    /*padding: 0 24px;*/
   }
 }
 
