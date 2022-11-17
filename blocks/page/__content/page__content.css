@@ -2,6 +2,7 @@
   margin-top: 56px;
   margin-bottom: 92px;
   padding: 0;
+  /*justify-items: stretch;*/
 }
 
 @media screen and (max-width: 1124px) {

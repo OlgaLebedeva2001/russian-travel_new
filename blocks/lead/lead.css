@@ -8,14 +8,14 @@
   align-items: center;
   outline: solid green;
   box-sizing: border-box;
-  padding: 0 100px;
+  padding: 0 148px;
 }
 
 @media screen and (max-width: 1124px) {
   .lead {
     /*max-width: 928px;*/
     min-height: 962px;
-    padding: 0;
+    padding: 0 48px;
   }
 }
 
