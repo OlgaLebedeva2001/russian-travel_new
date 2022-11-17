@@ -1,5 +1,5 @@
 .photo-grid__item {
-  max-width: 284px;
+  /*max-width: 284px;*/
   width: 100%;
   min-height: 213px;
   object-fit: cover;
@@ -10,21 +10,21 @@
 
 @media screen and (max-width: 1124px) {
   .photo-grid__item {
-    max-width: 300px;
+    /*max-width: 300px;*/
     min-height: 225px;
   }
 }
 
 @media screen and (max-width: 984px) {
   .photo-grid__item {
-    max-width: 352px;
+    /*max-width: 352px;*/
     min-height: 264px;
   }
 }
 
 @media screen and (max-width: 722px) {
   .photo-grid__item {
-    max-width: 288px;
+    /*max-width: 288px;*/
     min-height: 216px;
   }
 }
