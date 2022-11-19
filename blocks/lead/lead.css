@@ -2,7 +2,7 @@
   display: flex;
   /*max-width: 984px;*/
   width: 100%;
-  min-height: 1005px;
+  /*min-height: 1005px;*/
   margin: 0 auto;
   flex-direction: column;
   align-items: center;
@@ -14,7 +14,7 @@
 @media screen and (max-width: 1124px) {
   .lead {
     /*max-width: 928px;*/
-    min-height: 962px;
+    /*min-height: 962px;*/
     padding: 0 48px;
   }
 }
@@ -22,7 +22,7 @@
 @media screen and (max-width: 984px) {
   .lead {
     /*max-width: 768px;*/
-    min-height: 862px;
+    /*min-height: 862px;*/
     padding: 0;
   }
 }
@@ -30,7 +30,7 @@
 @media screen and (max-width: 568px) {
   .lead {
     /*max-width: 320px;*/
-    min-height: 406px;
+    /*min-height: 406px;*/
     padding: 0;
   }
 }
