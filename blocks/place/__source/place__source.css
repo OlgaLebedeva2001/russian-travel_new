@@ -1,0 +1,14 @@
+.place__source {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  row-gap: 12px;
+}
+
+
+@media screen and (max-width: 722px) {
+  .place__source {
+    padding: 0 16px;
+
+  }
+}
